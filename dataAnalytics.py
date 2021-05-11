@@ -6,3 +6,4 @@ import tensorflow as tf
 
 # load data
 housingData = pd.read_csv("kc_house_data.csv")
+pd.DataFrame.head(housingData)
