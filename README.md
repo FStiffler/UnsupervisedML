@@ -6,7 +6,7 @@ To see my analysis run the jupyter notebook in the following order:
 
 1. [Data Analysis](dataAnalytics.ipynb)
 2. [Principle Component Analysis](PCA.ipynb)
-3. [Hierarchical Clustering](Hierarchical Clustering.ipynb)
-4. [Price Outliers](Price Outliers.ipynb)
+3. [Hierarchical Clustering](HierarchicalClustering.ipynb)
+4. [Price Outliers](PriceOutliers.ipynb)
 
 
